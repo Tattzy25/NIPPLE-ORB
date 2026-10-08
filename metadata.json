@@ -1,0 +1,6 @@
+{
+  "name": "Jewfren - Live Speech-to-Speech Companion Widget",
+  "description": "A floating voice-only conversational bubble widget connecting users to Jewfren, a compassionate real-time empathetic companion powered by OpenAI Realtime S2S.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
